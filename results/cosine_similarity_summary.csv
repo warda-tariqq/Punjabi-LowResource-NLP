@@ -1,0 +1,5 @@
+﻿Script,Model,Evaluated_Pairs,Mean_Cosine_Similarity,Standard_Deviation,Minimum_Similarity,Maximum_Similarity
+Gurmukhi,CBOW,5,0.4545,0.1313,0.2795,0.642
+Gurmukhi,Skip-gram,5,0.4156,0.0478,0.372,0.4819
+Shahmukhi,CBOW,5,0.4218,0.1479,0.2628,0.6541
+Shahmukhi,Skip-gram,5,0.3561,0.0786,0.3042,0.4945

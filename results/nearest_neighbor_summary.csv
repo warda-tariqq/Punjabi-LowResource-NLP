@@ -1,0 +1,5 @@
+﻿Script,Model,Retrieved_Neighbors,Mean_Neighbor_Similarity,Standard_Deviation
+Gurmukhi,CBOW,40,0.7119,0.089
+Gurmukhi,Skip-gram,40,0.6013,0.0998
+Shahmukhi,CBOW,40,0.6823,0.097
+Shahmukhi,Skip-gram,40,0.5614,0.0802

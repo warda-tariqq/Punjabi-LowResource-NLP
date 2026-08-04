@@ -1,0 +1,21 @@
+﻿Script,Model,Word 1,Word 2,Cosine Similarity
+Gurmukhi,CBOW,ਭਾਰਤ,ਪਾਕਿਸਤਾਨ,0.6420497
+Gurmukhi,CBOW,ਪੰਜਾਬ,ਲਾਹੌਰ,0.49209422
+Gurmukhi,CBOW,ਗੁਰੂ,ਨਾਨਕ,0.41443086
+Gurmukhi,CBOW,ਸਿੱਖ,ਗੁਰੂ,0.2794856
+Gurmukhi,CBOW,ਮੁੰਬਈ,ਭਾਰਤ,0.44437715
+Gurmukhi,Skip-gram,ਭਾਰਤ,ਪਾਕਿਸਤਾਨ,0.48190728
+Gurmukhi,Skip-gram,ਪੰਜਾਬ,ਲਾਹੌਰ,0.44719005
+Gurmukhi,Skip-gram,ਗੁਰੂ,ਨਾਨਕ,0.40162253
+Gurmukhi,Skip-gram,ਸਿੱਖ,ਗੁਰੂ,0.3719631
+Gurmukhi,Skip-gram,ਮੁੰਬਈ,ਭਾਰਤ,0.37516555
+Shahmukhi,CBOW,بھارت,پاکستان,0.6540887
+Shahmukhi,CBOW,پںجاب,لاہور,0.46283928
+Shahmukhi,CBOW,گرو,نانک,0.36081183
+Shahmukhi,CBOW,سکھ,گرو,0.26278767
+Shahmukhi,CBOW,مںبی,بھارت,0.36825448
+Shahmukhi,Skip-gram,بھارت,پاکستان,0.34145796
+Shahmukhi,Skip-gram,پںجاب,لاہور,0.32623625
+Shahmukhi,Skip-gram,گرو,نانک,0.49448112
+Shahmukhi,Skip-gram,سکھ,گرو,0.30416328
+Shahmukhi,Skip-gram,مںبی,بھارت,0.31423134

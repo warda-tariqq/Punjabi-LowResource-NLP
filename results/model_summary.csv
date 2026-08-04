@@ -1,0 +1,5 @@
+﻿Model,Script,Architecture,Vocabulary Size,Vector Dimensions,Window Size,Minimum Count,Epochs
+Gurmukhi CBOW,Gurmukhi,CBOW,6349,200,5,5,15
+Gurmukhi Skip-gram,Gurmukhi,Skip-gram,5205,200,5,5,15
+Shahmukhi CBOW,Shahmukhi,CBOW,6748,200,5,5,15
+Shahmukhi Skip-gram,Shahmukhi,Skip-gram,6748,200,5,5,15
